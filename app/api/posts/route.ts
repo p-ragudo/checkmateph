@@ -18,7 +18,7 @@ export async function POST(request: Request) {
   // If it's a CLAIM, trigger AI fact-check automatically
   if (category === 'CLAIM' && source_urls?.length) {
     try {
-      const res = await fetch(`${process.env.NEXT_PUBLIC_APP_URL}/api/fact-check`, {
+      const res = await fetch(`${process.env.NEXT_PUBLIC_SITE_URL}/api/fact-check`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

@@ -81,8 +81,6 @@ checkmateph/
 
 ## Hackathon Scope
 
-This is a 24-hour prototype. Known limitations:
-
 - AI fact-checking is probabilistic, not a legal determination of truth
 - Debate rooms are text-only (no audio/video)
 - Tagalog NLP and OAuth login are deferred post-hackathon

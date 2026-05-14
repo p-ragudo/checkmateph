@@ -92,5 +92,5 @@ This is a 24-hour prototype. Known limitations:
 
 ## Team
 
-**Debuggerinas** — De La Salle University – Dasmariñas  
+**Debuggerinas** — Manuel S. Enverga University Foundation – Lucena, City  
 Built for SIKAPTala 2026: The National CS & IT Competition
